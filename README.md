@@ -30,6 +30,7 @@ The purpose of this project is to identify common phishing indicators and improv
 - VirusTotal
 - Browser Link Inspection
 - Manual Phishing Detection
+- Google phishingquiz
 
 ---
 
