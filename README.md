@@ -1,4 +1,4 @@
-✏️ # Phishing Email Analysis Project
+## Phishing Email Analysis Project
 
 ## Overview
 This project contains phishing email screenshots collected for cybersecurity awareness and phishing detection practice.
@@ -10,8 +10,8 @@ The purpose of this project is to identify common phishing indicators and improv
 ## Objectives
 - Understand phishing techniques
 - Identify suspicious email patterns
-- Analyze fake login attempts
-- Recognize social engineering tactics
+- Analyse fake login attempts
+- Recognise social engineering tactics
 
 ---
 
@@ -30,7 +30,7 @@ The purpose of this project is to identify common phishing indicators and improv
 - VirusTotal
 - Browser Link Inspection
 - Manual Phishing Detection
-- Google phishingquiz
+- Google phishing Quiz
 
 ---
 
