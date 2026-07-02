@@ -1,1 +1,28 @@
+## Case Study – Two-Step Verification Scam
 
+## Description
+
+This phishing case attempts to trick users into sharing their 2-Step Verification (OTP) code through fake urgency or impersonation tactics.
+
+## Phishing Indicators Identified
+
+- Requests for OTP or verification code
+- Fake security warning
+- Urgent account recovery message
+- Impersonation of bank or service provider
+- Pressure to act immediately
+
+## Risk
+
+If users share their 2-Step Verification code, attackers can gain unauthorised access to accounts even if the password is correct.
+
+## Prevention Tips
+
+* Never share OTP or 2-Step codes with anyone
+* Verify requests directly from official apps/websites
+* Avoid clicking suspicious verification links
+* Enable stronger authentication methods like passkeys
+
+## Security Awareness Note
+
+Users should only enter verification codes during a login process they personally initiated. Modern authentication methods such as passkeys and security keys provide stronger protection against phishing attacks.
