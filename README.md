@@ -5,7 +5,7 @@ This project contains phishing email screenshots collected for cybersecurity awa
 
 The purpose of this project is to identify common phishing indicators and improve awareness about social engineering attacks.
 
----
+
 
 ## Objectives
 - Understand phishing techniques
@@ -13,7 +13,7 @@ The purpose of this project is to identify common phishing indicators and improv
 - Analyse fake login attempts
 - Recognise social engineering tactics
 
----
+
 
 ## Common Indicators Found
 - Fake sender addresses
@@ -23,7 +23,7 @@ The purpose of this project is to identify common phishing indicators and improv
 - Grammar mistakes
 - Credential harvesting attempts
 
----
+
 
 ## Tools Used
 - Screenshot Analysis
@@ -32,7 +32,7 @@ The purpose of this project is to identify common phishing indicators and improv
 - Manual Phishing Detection
 - Google phishing Quiz
 
----
+
 
 ## Learning Outcome
 This project helped improve understanding of:
@@ -41,7 +41,7 @@ This project helped improve understanding of:
 - Cybersecurity awareness
 - Social engineering techniques
 
----
+
 
 ## Screenshots
 Project includes sample phishing screenshots for educational purposes only.
