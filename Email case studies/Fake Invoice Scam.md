@@ -11,10 +11,11 @@ Analyse a phishing email using a fake invoice and urgency to trick the victim in
 
 # Findings
 * Fake invoice requesting payment.
-* Creates urgency by claiming unauthorized activity.
+* Creates urgency by claiming unauthorised activity.
 * Includes a phone number to contact the attacker.
 * Attempts to pressure the victim into acting immediately.
-* Red Flags
+
+# Red Flags
 * Unexpected invoice.
 * Urgent payment request.
 * Fake customer support number.
