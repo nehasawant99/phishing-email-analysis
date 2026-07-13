@@ -8,6 +8,9 @@ Identify a phishing email using a fake sender address that impersonates a truste
 
 <img width="1452" height="501" alt="Screenshot 2026-05-29 at 11 41 46 AM" src="https://github.com/user-attachments/assets/0265d669-8d56-4a36-bf74-7b0c839a31a7" />
 
+
+<img width="1452" height="802" alt="Screenshot 2026-05-29 at 11 47 54 AM" src="https://github.com/user-attachments/assets/5146b26f-99be-4f63-906b-b71712f3edf6" />
+
 # Findings
 * Sender name appears legitimate.
 * Email address does not match the sender's identity.
