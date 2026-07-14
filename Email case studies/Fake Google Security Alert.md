@@ -21,7 +21,7 @@ Analyse a phishing email impersonating Google with a fake security warning.
 * The link doesn't point to the official Google website.
 
 # Impact
-- Victims may enter their Google credentials, leading to account compromise.
+Victims may enter their Google credentials, leading to account compromise.
 
 # Recommendation
 - Check the sender's domain carefully.
