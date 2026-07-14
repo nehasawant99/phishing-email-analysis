@@ -28,11 +28,11 @@ Users may trust the sender and reveal sensitive information or click malicious l
 
 
 # Recommendation
-Verify the sender's full email address.
-Do not trust the display name alone.
-Confirm unexpected requests through another communication channel.
+- Verify the sender's full email address.
+- Do not trust the display name alone.
+- Confirm unexpected requests through another communication channel.
 
 
 # Key Learning
-Always inspect the complete sender email.
-Look-alike email addresses are a common phishing technique.
+- Always inspect the complete sender email.
+- Look-alike email addresses are a common phishing technique.
