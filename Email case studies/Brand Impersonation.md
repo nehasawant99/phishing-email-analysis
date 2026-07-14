@@ -24,12 +24,12 @@ Analyse a phishing email impersonating a well-known brand.
 Victims may click malicious links, submit personal information, or download malware.
 
 # Recommendation
-Verify the sender's domain before responding.
-Ignore offers that seem unrealistic.
-Visit the company's official website instead of using email links.
+- Verify the sender's domain before responding.
+- Ignore offers that seem unrealistic.
+- Visit the company's official website instead of using email links.
 
 
 # Key Learning
-Check the sender's domain, not just the brand name.
-Be cautious of unrealistic offers and promotions.
-Legitimate companies use their official email domains.
+- Check the sender's domain, not just the brand name.
+- Be cautious of unrealistic offers and promotions.
+- Legitimate companies use their official email domains.
