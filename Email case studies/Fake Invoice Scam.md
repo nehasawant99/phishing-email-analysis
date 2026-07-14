@@ -26,12 +26,12 @@ Analyse a phishing email using a fake invoice and urgency to trick the victim in
 Victims may call the scammer, reveal personal information, or make fraudulent payments.
 
 # Recommendation
-Verify invoices through the official website.
-Never call phone numbers provided in suspicious emails.
-Contact the company using official support channels.
+- Verify invoices through the official website.
+- Never call phone numbers provided in suspicious emails.
+- Contact the company using official support channels.
 
 
 # Key Learning
-Verify unexpected invoices before paying.
-Urgency is a common phishing tactic.
-Use official support contacts only.
+- Verify unexpected invoices before paying.
+- Urgency is a common phishing tactic.
+- Use official support contacts only.
